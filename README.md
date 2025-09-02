@@ -1,8 +1,8 @@
 ### 👋 Olá, eu sou o Johnny! 
 
 🎯 **Objetivo:** Transformar minha paixão por tecnologia em carreira, com foco em **Desenvolvimento Full-Stack** e **Análise de Dados**.  
- 📍  São Carlos - SP  
 📚 Cursando **Análise e Desenvolvimento de Sistemas (ADS)** na Unicesumar – Conclusão prevista: **Dez/2026**  
+ - 📍  São Carlos - SP 
 
 ---
 
